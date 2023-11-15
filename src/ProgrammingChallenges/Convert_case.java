@@ -10,7 +10,6 @@ public class Convert_case {
         System.out.println("Enter a Word: ");
         String userInput = scanner.nextLine();
 
-
         System.out.println("Length of the string: " + userInput.length());
         System.out.println("String in uppercase: " + userInput.toUpperCase());
         System.out.println("String in lowercase: " + userInput.toLowerCase());
